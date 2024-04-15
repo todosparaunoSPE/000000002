@@ -8,7 +8,7 @@ Created on Mon Apr 15 12:09:23 2024
 import streamlit as st
 
 
-st.title("PEDRO FUENTES SANTOS")
+st.title("SANCHEZ AGUIRRE ANA")
 
 st.header("NO SE ENCUENTRA EN LA:")
 st.subheader("") 
